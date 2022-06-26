@@ -1,7 +1,5 @@
 # Uber Vs. Lyft Boston, MA Analysis
 
-## Project 1 
-
 Within the past 10 years, Uber and Lyft have become the two most used rideshare apps in the country. The big question when trying to decide how to catch a 
 ride or even who to work for is which app should I use? Lyft or Uber? Of course, consumers are looking for which app will cost less money while driver’s 
 are concerned about which app will make them more money. Each person has their own goal based on their status when opening the apps, but no matter if 
