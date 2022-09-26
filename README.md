@@ -22,9 +22,7 @@ This repository includes
 
 ### Cleaning the Data
 
-#### Step 1 
-
-Import the necessary Python libraries. 
+#### Step 1 Import the necessary Python libraries. 
 
  ![image](https://user-images.githubusercontent.com/100864997/192342938-c274f408-6409-424e-b414-65df58d94090.png)
 
@@ -43,6 +41,6 @@ Import the necessary Python libraries.
 
 ![image](https://user-images.githubusercontent.com/100864997/192343070-1c5dce93-05db-4218-9652-ecd38baa81e4.png)
 
-### Data Set Used https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma ![image](https://user-images.githubusercontent.com/100864997/192343195-f26f9aed-1276-4fb3-beaa-d035544fb300.png)
+### Data Set Used https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma 
 
 
