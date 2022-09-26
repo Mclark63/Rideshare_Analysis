@@ -22,23 +22,23 @@ This repository includes
 
 ### Cleaning the Data
 
- ## Step 1 
+#### Step 1 
 
 Import the necessary Python libraries. 
 
  ![image](https://user-images.githubusercontent.com/100864997/192342938-c274f408-6409-424e-b414-65df58d94090.png)
 
 
-## Step 2. Analyze the columns by creating dataframes.
+#### Step 2. Analyze the columns by creating dataframes.
 
  ![image](https://user-images.githubusercontent.com/100864997/192342974-9aa50ac1-9e7c-45ff-8e3a-27dd4415fae0.png)
 
 
-## Step 3. Decide what questions you want to answer and which columns are needed to proceed with your analysis. 
+#### Step 3. Decide what questions you want to answer and which columns are needed to proceed with your analysis. 
 
 ![image](https://user-images.githubusercontent.com/100864997/192343020-b262c399-d649-456d-854f-7fb2ee89b65d.png)
 
-## Step 4. Drop Null Values, Rename Columns, Delete Columns 
+#### Step 4. Drop Null Values, Rename Columns, Delete Columns 
 
 
 ![image](https://user-images.githubusercontent.com/100864997/192343070-1c5dce93-05db-4218-9652-ecd38baa81e4.png)
