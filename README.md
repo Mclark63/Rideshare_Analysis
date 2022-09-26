@@ -15,7 +15,7 @@ considered when analyzing the data. The overall goal is to determine which rides
 
 ### Cleaning the Data
 
-## Steo 1
+## Step 1
 
 Import the necessary Python libraries. 
 
