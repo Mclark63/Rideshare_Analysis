@@ -13,6 +13,35 @@ opportunity to see where and when they will make the most money while using eith
 considered when analyzing the data. The overall goal is to determine which rideshare app is more beneficial to customers and their contracted driver’s. 
 
 
+### Cleaning the Data
+
+## Steo 1
+
+Import the necessary Python libraries. 
+
+<img width="460" alt="Screen Shot 2022-09-26 at 12 53 38 PM" src="https://user-images.githubusercontent.com/100864997/192335837-6fde55b4-e9bf-4304-9fe0-88b5b08d2265.png">
+
+
+## Step 2.
+
+Analyze the columns by creating dataframes.
+
+<img width="929" alt="Screen Shot 2022-09-26 at 12 55 21 PM" src="https://user-images.githubusercontent.com/100864997/192336219-51415bcf-7a2b-4bc4-9610-330805d58657.png">
+
+
+## Step 3. 
+Decide what questions you want to answer and which columns are needed to proceed with your analysis. 
+
+<img width="1004" alt="Screen Shot 2022-09-26 at 12 38 27 PM" src="https://user-images.githubusercontent.com/100864997/192334344-98505f67-2ae4-492f-90c3-d830f580cf41.png">
+
+## Step 4. 
+
+Drop Null Values, Rename Columns, Delete Columns 
+
+<img width="468" alt="Screen Shot 2022-09-26 at 12 41 57 PM" src="https://user-images.githubusercontent.com/100864997/192336831-d2292b85-fc70-483b-9057-932f180cc5cb.png">
+
+
+
 ### Data Set Used
 
 https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma
@@ -20,3 +49,4 @@ https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma
 ### Respository
 
 This repository includes the code used to clean and visualize the data, a link to the data set, and photos of the different graphs created.  
+
